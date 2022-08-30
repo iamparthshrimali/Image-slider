@@ -1,5 +1,8 @@
 # image-slider
 
+[live preview](https://iamparthshrimali.github.io/image-slider/)
+
+
 How to use it,
    First link slideStyle.css and slideScript.js then,
 
